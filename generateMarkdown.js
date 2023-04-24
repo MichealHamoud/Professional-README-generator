@@ -1,4 +1,7 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// grabbing the packages needed for this generator
+const inquirer = require('inquirer');
+const fs = require('fs');
+const index = require('./index');
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   let badge = '';
