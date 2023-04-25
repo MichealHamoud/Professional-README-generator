@@ -1,5 +1,5 @@
 
-  # Password generator
+  # README Generator
   ## License: this project is created using the MIT license, Users with the MIT license can use,copy, merge, modify, publish, distibute, sublicense and sell all copies of the software  
   ### 
   ## Table of Contents:
