@@ -14,6 +14,10 @@
 This app alows the user to login/signup to the website and allows them to post a blog and gives them a choice after posting the comment to either update it or delete it
 ## Screenshots
 ![Alt text]()
+
+https://github.com/MichealHamoud/Professional-README-generator/assets/123305537/f0d7e4e5-ee96-485e-baa8-3f830f96ccde
+
+
 ## Installation
 Clone the repo, after cloning make sure you run npm install and make sure you have a .env file that has the db name,root and passowr dfor mysql
 ## Usage
