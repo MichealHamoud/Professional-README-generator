@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MVC_Blog
 ![Github license](https://img.shields.io/badge/license--blue)
 ## Table of Contents
@@ -27,3 +28,29 @@ if you wanna contribute you can fix some of the routes from the files
 Anyone can use/add anything to this repo
 ## Questions
 If you have any questions or suggestions please [contact](mailto:?subject=README_file_generator) or visit [github/michealhamoud](https://github.com/michealhamoud)
+=======
+README Generator
+License: this project is created using the MIT license, Users with the MIT license can use,copy, merge, modify, publish, distibute, sublicense and sell all copies of the software
+Table of Contents:
+* Installation
+* Usage
+* License
+* Contributors
+* Tests
+* Questions
+Installation:
+You must install the following for this app to function:
+Either follow the link below to my github or clone the repo
+Usage:
+TBA
+Contributors:
+undefined
+Tests:
+Run the following commands in your terminal to test this app:
+undefined
+Questions:
+If you have any questions, you may contact me at either
+Github: https://github.com/MichealHamoud
+or
+Email: N/A
+>>>>>>> 31c49d5aab79b95997c1d332277a41af1b055c31
