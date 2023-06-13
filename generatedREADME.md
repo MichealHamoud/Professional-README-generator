@@ -1,6 +1,6 @@
 
-  # Password generator
-  ## License: this project is created using the MIT license, Users with the MIT license can use,copy, merge, modify, publish, distibute, sublicense and sell all copies of the software  
+  # E-Commerce
+  ## License: anyone can use it  
   ### 
   ## Table of Contents:
   ###  * [Installation](#installation)
@@ -11,9 +11,9 @@
   ###  * [Questions](#questions)
   ## Installation:
   ### You must install the following for this app to function:
-  ### Either follow the link below to my github or clone the repo
+  ### Make sure you npm install, npm init, and npm i express mysql2 dotenv sequelise. Also to make sure you have adjusted the .env file to what ever username and password you have for mysql
   ## Usage:
-  ### TBA
+  ### Clone the repo and follow the instructions above
   ## Contributors:
   ### undefined
   ## Tests:
@@ -23,4 +23,4 @@
   ### If you have any questions, you may contact me at either
   ### Github: https://github.com/undefined
   ### or
-  ### Email: michea.hamoud11
+  ### Email: 
